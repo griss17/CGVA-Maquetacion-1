@@ -1,0 +1,93 @@
+.Cabecera{
+    text-align: center;
+    background-color: #529ABB;
+    color: white;
+    padding: 65px;
+}
+
+.hr{
+    width: 15%;
+    height: 15%;
+}
+
+#fondoblanco{
+    text-align: center;
+    background-color: white;
+}
+
+.Team{
+    text-align: center;
+}
+
+.Medio{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.pclaro {
+    color:white;
+    text-align: center;
+    
+}
+  
+.h1black{
+    color: black;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+	color: black;
+	text-align: center;
+}
+
+h3{
+	color: black;
+	text-align: center;
+}
+
+h4{
+	color: black;
+	text-align: center;
+}
+
+.texto-sobre-imagen{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Servicios
+{
+	background-color : white	;
+	text-align: center;
+}
+
+.btn-info { 
+    color: #fff;
+    background-color: #529ABB;
+    border-color: #529ABB;
+    
+  }
+
+  .btn-selec { 
+    color: #fff;
+    background-color: #428BCA;
+    border-color: #428BCA;
+  }
+
+.fondo{
+    background-color: #F8F8F8;
+}
